@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "luffytrills.aternos.me",
-    "port": 37056,
+    "ip": "luffytrills-247.aternos.me:24192",
+    "port": 24192,
     "version": "",
     "try-creative": false
   },
